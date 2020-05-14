@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # store
 
 This application was generated using JHipster 6.8.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.8.0](https://www.jhipster.tech/documentation-archive/v6.8.0).
@@ -187,3 +188,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
+=======
+# e-shop
+This is the jhipster based project to create an online store with angular
+>>>>>>> bd32f4d68e31fb29963a58cffcc92b1ac16ed52d
